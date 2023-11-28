@@ -20,7 +20,7 @@ touch Abcde{1..10000}@.txt
 a=$((a+1));
 echo "complete"
 done
-echo "Enter File Name"
+echo "Enter Your DATA:"
 read file
 echo "Save Data Abcde33@.txt"
 sleep 15
