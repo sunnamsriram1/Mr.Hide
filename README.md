@@ -8,7 +8,6 @@ apt upgrade
 git clone https://github.com/sunnamsriram1/Mr.Hide.git
 cd Mr.Hide
 bash Mr.Hode.sh
-
 '''
 
 ### Blog: 
